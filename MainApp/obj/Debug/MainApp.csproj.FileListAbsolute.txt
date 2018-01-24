@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ElevatorBaseArea51\MainApp\obj\Debug\MainApp.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ElevatorBaseArea51\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ElevatorBaseArea51\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\user\source\repos\ElevatorBaseArea51\MainApp\bin\Debug\MainApp.exe
+C:\Users\user\source\repos\ElevatorBaseArea51\MainApp\bin\Debug\MainApp.pdb
+C:\Users\user\source\repos\ElevatorBaseArea51\MainApp\obj\Debug\MainApp.exe
+C:\Users\user\source\repos\ElevatorBaseArea51\MainApp\obj\Debug\MainApp.pdb
